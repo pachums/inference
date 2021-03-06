@@ -1,0 +1,3 @@
+El test CECAD consta de 50 preguntas que hay que contestar eligiendo entre las opciones nunca, casi Nunca, algunas veces, casi siempre y siempre.
+Depresión: Una elevada puntuación en esta escala indica un estado de ánimo depresivo o irritable, insomnio o hipersomnia, inutilidad, pérdida de energía, disminución de la capacidad de pensar, pérdida de apetito y pensamiento suicida
+Ansiedad: Una elevada puntuación son sintomáticas de tensión muscular y problemas inherentes a una incorrecta respiración, miedos, preocupaciones y pensamientos molestos.
